@@ -1,0 +1,20 @@
+init	neues Repository erstellen
+config	Konfiguation steuern
+clone 	ein Repoitory clonen
+add	fügt eine Datei zur staging area hinzu
+rm	löscht eine Datei von der working directory
+commit	zeichnet in der Version History die Files auf
+remote	verbindet das local repository mit der remote
+push	shickt die commiteten Änderungen zum remote repository
+pull	Fügt Änderungen des remote serveers zu der eigenen working directonary hinzu
+status	Listet alle files auf , die commited wurden
+diff	zeigt die files, die nocht nicht aufgeführt wurden
+reset	unaufführt files, aber vorherrscht trotzdem über die files
+log	listet die HIstory des aktuellen Zweigs auf
+branch	listet alle lokalen Zweige des aktuellen repositorxs auf
+checkout damit kann von einem zweig zu einem anderen gewechselt werden	
+merge	fügt die specified zweig history zum aktuellen zweig hinzu
+
+
+
+
